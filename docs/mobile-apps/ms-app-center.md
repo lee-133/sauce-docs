@@ -9,7 +9,7 @@ Migrate now from App Center Mobile App Distribution to Sauce Labs! This is how y
 ## What You'll Need
 
 - A Sauce Labs account
-- [Mobile Beta Testing access (https://mobile.saucelabs.com/)
+- Mobile Beta Testing access (https://mobile.saucelabs.com/)
 
 ## Start migrating now from App Center! Upload your apps to TestFairy!
 
