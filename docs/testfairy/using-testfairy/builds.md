@@ -22,7 +22,7 @@ The **Builds** page displays a list of all the builds for the app. For each buil
 - **VERSION** - This indicates the build name and version number.
 - **SESSIONS** - The number of user sessions logged for this specific build. Clicking on the sessions count will take you to the INSIGHTS tab for deeper analysis.
 - **CRASHES** - The count of logged crashes for this build version. Click on the crashes count to access the CRASHES tab for crash-related details.
-- **DOWNLOADS** - he total number of times this build has been downloaded.
+- **DOWNLOADS** - The total number of times this build has been downloaded.
 - **FEEDBACKS** - The amount of feedback received for this build. Click on the feedback count to access the FEEDBACK tab and read user comments and suggestions.
 - **UPLOADED** - The date and time when the build was uploaded to the system.
 - **TAGS** - Tags are labels that help with build identification and are searchable. They can be edited in the Build Settings menu.
