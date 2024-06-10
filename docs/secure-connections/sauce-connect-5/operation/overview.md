@@ -96,7 +96,7 @@ The following options are available:
 
 - [Running Sauce Connect Proxy in Kubernetes](/secure-connections/sauce-connect-5/installation/kubernetes).
 - [Running a containerized Sauce Connect Proxy](/secure-connections/sauce-connect/setup-configuration/docker/#running-the-sauce-connect-proxy-container-indefinitely-in-kubernetes).
-- Running a [systemd service](/secure-connections/sauce-connect-5/installation/linux/).
+- [Running a systemd service](/secure-connections/sauce-connect-5/installation/linux/).
 
 ## More Information
 
