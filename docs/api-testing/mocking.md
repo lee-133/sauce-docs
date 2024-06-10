@@ -61,7 +61,8 @@ If you provide a standard OpenAPI spec file, our system should bind a series of 
 docker run --pull always -v "$(pwd)/myspec:/specs" -p 5000:5000 quay.io/saucelabs/piestry -u /specs/myspec.yaml
 ```
 
-`$(pwd)/myspec` means the `{current_directory}/myspec` that gets mounted to the container in the `/specs` folder. Therefore, the -u (relative to the container is) `/specs/myspec.yaml`. 3. If successful, you should see the listing of the available routes:
+`$(pwd)/myspec` means the `{current_directory}/myspec` that gets mounted to the container in the `/specs` folder. Therefore, the -u (relative to the container is) `/specs/myspec.yaml`. 
+3. If successful, you should see the listing of the available routes:
 
 ```json
 2021-10-05T07:32:35.157Z info: Piestry booting on port: 5000
